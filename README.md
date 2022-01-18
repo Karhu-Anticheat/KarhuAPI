@@ -6,7 +6,7 @@ Example below
 public final class ExampleListener implements KarhuListener {
 
     public ExampleListener() {
-        //KarhuAPI.getEventRegistry().addListener(this);
+        KarhuAPI.getEventRegistry().addListener(this);
     }
 
     @Override
