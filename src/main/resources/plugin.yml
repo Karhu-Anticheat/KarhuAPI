@@ -1,0 +1,7 @@
+name: KarhuAPI
+version: 1.0
+main: me.liwk.karhu.api.KarhuAPI
+api-version: 1.13
+authors: [LIWK, Shanape]
+description: Karhu API
+website: www.karhu.cc
