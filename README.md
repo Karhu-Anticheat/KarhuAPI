@@ -1,6 +1,8 @@
 # KarhuAPI
 Karhu Anticheat Developer API
 
+Please note that you need to drop KarhuAPI.jar into plugins folder for it to work.
+
 Example below
 
 public final class ExampleListener implements KarhuListener {
