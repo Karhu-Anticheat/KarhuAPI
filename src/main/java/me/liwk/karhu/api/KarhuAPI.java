@@ -45,6 +45,7 @@ public final class KarhuAPI extends JavaPlugin {
     }
 
     public static void shutdown() {
+        if (eventRegistry == null) return;
         eventRegistry.shutdown();
     }
 
